@@ -1,0 +1,17 @@
+{
+  "name": "ninja-food",
+  "version": "1.0.0",
+  "description": "for food",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/tailwind.css -o public/style.css"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.2"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
